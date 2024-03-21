@@ -2,5 +2,5 @@
 	"name": "Default Rocky Linux",
 	"image": "rockylinux:9.3",
 	"features": {},
-	"remoteUser": "vscode"
+	"remoteUser": "root"
 }
